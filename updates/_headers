@@ -1,0 +1,7 @@
+/wcag-ext.crx
+  Access-Control-Allow-Origin: *
+  Content-Type: application/x-chrome-extension
+
+/update.xml
+  Access-Control-Allow-Origin: *
+  Content-Type: text/xml
